@@ -1,0 +1,7 @@
+module.ixanerc:
+ model: ..\..\models\nerc-models-1.5.4\en\combined\en-91-18-3-class-muc7-conll03-ontonotes-4.0.bin
+server.port: 0
+logging:
+  file: processor-ixa-pipe-nerc.log
+  level: 
+    com.langstok: debug
