@@ -5,7 +5,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import com.langstok.nlp.ixanerc.enumeration.DictTag;
 import com.langstok.nlp.ixanerc.enumeration.Language;
 
-@ConfigurationProperties("module.ixanerc")
+@ConfigurationProperties
 public class NercProperties {
 	
 	/**
