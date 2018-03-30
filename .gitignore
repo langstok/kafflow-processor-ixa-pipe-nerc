@@ -21,3 +21,4 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+nerc-models-1.6.1/

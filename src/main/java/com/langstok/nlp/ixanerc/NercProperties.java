@@ -16,7 +16,7 @@ public class NercProperties {
 	/**
 	 * Pass the model to do the tagging as a parameter
 	 */
-	String model;
+	String model = "/maven/nerc-models-1.6.1/en/combined/en-newsreader-clusters-3-class-muc7-conll03-ontonotes-4.0.bin";
 	
 	/**
 	 * Use lexer rules 'numeric' for NERC tagging; it defaults to false.
